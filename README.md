@@ -1,2 +1,3 @@
 # simons-game
-the is the game make using html , css , js
+  we are make the very beautiful game for childer for expand the memory
+  
